@@ -1,1 +1,1 @@
-# COP3330-HW3
+# The purpose of this Java Program is to allow the user to add books to a database, either a book of class library book or bookstore book, store information about the book depending on the type such as price or subject, and search for books based on the book's author, book's name, or the book's number (isbn).
